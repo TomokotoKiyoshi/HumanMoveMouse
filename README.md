@@ -7,28 +7,28 @@
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Quick Start](#quick-start)
+- [🎯 Overview](#-overview)
+- [✨ Features](#-features)
+- [📦 Installation](#-installation)
+- [🚀 Quick Start](#-quick-start)
   - [Basic Usage](#basic-usage)
   - [Using Current Mouse Position](#using-current-mouse-position)
   - [Customizing Movement Parameters](#customizing-movement-parameters)
-- [API Reference](#api-reference)
+- [📖 API Reference](#-api-reference)
   - [HumanMouseController](#humanmousecontroller)
   - [Methods Starting from Current Position](#methods-starting-from-current-position)
-- [Advanced Usage](#advanced-usage)
+- [🔧 Advanced Usage](#-advanced-usage)
   - [Using Custom Models](#using-custom-models)
   - [Training Your Own Model](#training-your-own-model)
-- [License](#license)
-- [Disclaimer](#disclaimer)
-- [Contributing](#contributing)
+- [📄 License](#-license)
+- [⚠️ Disclaimer](#️-disclaimer)
+- [🤝 Contributing](#-contributing)
 
 ---
 
-## Overview
+## 🎯 Overview
 
 **HumanMoveMouse** is a human-like mouse automation tool built on over **300 real human mouse movement samples**.
 
@@ -38,7 +38,7 @@ These paths closely mimic real human behavior and are ideal for automation tasks
 
 ---
 
-## Features
+## ✨ Features
 
 - **Human-like Trajectory Generation**: Generates mouse paths that follow human-like patterns based on a real-data model.
 
@@ -58,7 +58,7 @@ These paths closely mimic real human behavior and are ideal for automation tasks
 
 ---
 
-## Installation
+## 📦 Installation
 
 You can install the package directly from PyPI:
 
@@ -68,7 +68,7 @@ pip install HumanMoveMouse
 
 ---
 
-## Quick Start
+## 🚀 Quick Start
 
 ### Basic Usage
 
@@ -119,7 +119,7 @@ controller.move((100, 100), (800, 600))
 
 ---
 
-## API Reference
+## 📖 API Reference
 
 ### HumanMouseController
 
@@ -193,7 +193,7 @@ Drag from current position to target (press and hold left button).
 
 ---
 
-## Advanced Usage
+## 🔧 Advanced Usage
 
 ### Using Custom Models
 
@@ -212,13 +212,13 @@ For training custom models with your own mouse movement data, please refer to th
 
 ---
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 ⚠️ **IMPORTANT NOTICE**
 
@@ -250,6 +250,6 @@ This project is provided for **educational and research purposes only**. By usin
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please check out the [GitHub repository](https://github.com/TomokotoKiyoshi/HumanMoveMouse) for development setup and guidelines.
